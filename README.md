@@ -1,10 +1,8 @@
-# Library application (Java)
+# Library application (Python)
 
-TODO: Add description
+This project simulates a library application through a terminal. This application contains features such as: **Register new user**, **Register new book**, **Register new book rental**, **List all registered users**, **List all registered books**, **List all users who have rented one book**, **List all books that have NOT been rented** and **List all books that have been rented**.
 
-<!-- This project simulates a bank application through a terminal. This application contains features such as: **Create a new employee account bank**, **Deposit money**, **Withdraw money**, **Check an employee account** and **List all employees**.
-
-This project was built using **Java Scanner** to simulate a bank using the user's terminal. -->
+This project is just the result of parsing the Java code into Python with minor changes because of compatibility. You might want to check Java version here: [Library Application Java](https://github.com/Yovaxox/library-application-java)
 
 ## Usage
 
